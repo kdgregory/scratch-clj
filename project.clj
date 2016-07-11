@@ -25,6 +25,7 @@
                  [com.cognitect/transit-clj "0.8.285"]
                  [com.rjmetrics/database-clj "1.1.0"]
                  [log4j/log4j "1.2.17"]
+                 [mysql/mysql-connector-java "5.1.39"]
                  [postgresql/postgresql "8.4-702.jdbc4"]
                  ]
 
